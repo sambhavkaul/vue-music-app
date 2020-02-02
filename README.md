@@ -1,4 +1,4 @@
-# web-tut
+# Vue Music App
 
 ## Project setup
 ```
